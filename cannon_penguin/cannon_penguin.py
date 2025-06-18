@@ -2,7 +2,7 @@ import pygame, math, sys, random
 
 pygame.init()
 screen = pygame.display.set_mode((1366, 768))
-pygame.display.set_caption("Cannon game")
+pygame.display.set_caption("Cannon The Penguin!")
 clock = pygame.time.Clock()
 
 def ingame():
